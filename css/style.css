@@ -8,6 +8,7 @@ body {
 
 #body {
     position: relative;
+    bottom: -6vh;
 }
 
 #body2 {
@@ -83,6 +84,7 @@ body {
     height: 6vh;
     color: #444444;
     width: 2;
+
 }
 
 header {
