@@ -8,7 +8,6 @@ body {
 
 #body {
     position: relative;
-    bottom: -6vh;
 }
 
 #body2 {
@@ -67,8 +66,20 @@ body {
 #button {
     position: relative;
     height: 6vh;
-    width: 2;
+    width: 100;
 
+}
+
+#button2 {
+    position: relative;
+    height: 6vh;
+    width: 3;
+}
+
+#button3 {
+    position: relative;
+    height: 6vh;
+    width: 2;
 }
 
 header {
