@@ -1,0 +1,105 @@
+body {
+    background-color: black;
+
+}*{
+    margin: 0;
+    padding: 0;
+}
+
+#body {
+    position: relative;
+    bottom: -6vh;
+}
+
+#body2 {
+    position: relative;
+
+}
+
+#hr {
+    width: 2in;
+}
+
+#font {
+    font-family: 'Pacifico', cursive;
+}
+
+#img {
+    position: relative;
+}
+
+#install {
+    position: relative;
+    bottom: -2in;
+}
+
+#banner {
+    position: relative;
+    width: 5in;
+
+}
+
+#beta {
+    position: relative;
+    bottom: -6.2in;
+    left: -7.4in;
+}
+
+#beta2 {
+    position: relative;
+    right: -9.7in;
+    top: -8vh;
+}
+
+#platform {
+    position: relative;
+    left: 0.9vh;
+}
+
+#btn {
+    position: relative;
+    bottom: -20px;
+    left: 20px;
+    width: 100px;
+    height: 30px;
+}
+
+#button {
+    position: relative;
+    height: 6vh;
+    width: 2;
+
+}
+
+header {
+    position: absolute;
+    height: 6vh;
+    width: 100%;
+    background-color: rgb(29, 29, 29);
+}
+
+header #btn {
+    position: absolute;
+    top: 1vh;
+    left: 1vh;
+}
+
+header img {
+    position: absolute;
+    width: 170px;
+    bottom: 0.3vh;
+    left: 0.1vh;
+}
+
+footer {
+    position: absolute;
+    bottom: -220%;
+    background-color: rgb(29, 29, 29);
+    width: 100%;
+}
+
+footer h1 {
+    position:relative;
+    left: 4.9in;
+}
+
