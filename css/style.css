@@ -87,6 +87,30 @@ body {
 
 }
 
+#body {
+    position: relative;
+}
+
+#buttons {
+    position: relative;
+    left: 7.1in;
+}
+
+#zip {
+    position: relative;
+    left: -1.3in;
+}
+
+#hr2 {
+    position: relative;
+    width: 3in;
+}
+
+#bodyy {
+    position: relative;
+    bottom: -0.7in;
+}
+
 header {
     position: absolute;
     height: 6vh;
