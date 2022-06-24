@@ -22,4 +22,4 @@ window.onload = function () {
     startTimer(fiveMinutes, display);
 };
 
-console.log("ddd");
+console.log("If you see this hello!");
