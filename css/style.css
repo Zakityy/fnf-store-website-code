@@ -7,6 +7,18 @@ body {
     padding: 0;
 }
 
+
+.column {
+    width: 100%;
+  }
+  
+  @media (min-width: 600px) {
+    .column {
+      width: 50%;
+    }
+}
+
+
 #body {
     position: relative;
     bottom: -6vh;
@@ -27,6 +39,19 @@ body {
 
 #img {
     position: relative;
+}
+
+#image {
+    width: 350px;
+    height: 1in;
+}
+
+#extracted {
+    width: 340px;
+    height: 27px;
+}#zipp {
+    width: 3.4in;
+    height: 2.7in;
 }
 
 #install {
